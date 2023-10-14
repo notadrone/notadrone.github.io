@@ -2,17 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/post/example/</loc>
+    <loc>https://notadrone.github.io/</loc>
+    <lastmod>2023-10-14T08:41:07-04:00</lastmod>
+  </url><url>
+    <loc>https://notadrone.github.io/posts/newpost/</loc>
+    <lastmod>2023-10-14T08:41:07-04:00</lastmod>
+  </url><url>
+    <loc>https://notadrone.github.io/posts/</loc>
+    <lastmod>2023-10-14T08:41:07-04:00</lastmod>
+  </url><url>
+    <loc>https://notadrone.github.io/about/</loc>
+    <lastmod>2023-06-20T08:44:40-04:00</lastmod>
+  </url><url>
+    <loc>https://notadrone.github.io/about/about/</loc>
+    <lastmod>2023-06-20T08:44:40-04:00</lastmod>
+  </url><url>
+    <loc>https://notadrone.github.io/posts/example/</loc>
     <lastmod>2023-05-25T08:41:07-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://notadrone.github.io/playbook/</loc>
     <lastmod>2023-05-25T08:41:07-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/</loc>
-    <lastmod>2023-05-25T08:41:07-04:00</lastmod>
+    <loc>https://notadrone.github.io/blog/</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://notadrone.github.io/series/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://notadrone.github.io/tags/</loc>
   </url>
 </urlset>
