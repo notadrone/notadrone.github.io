@@ -60,3 +60,7 @@ paginate     = 10
     name       = 'About'
     url        = '/about'
     weight     = 20
+  [[menu.main]]
+    identifier = "playbook"
+    name       = "Playbook"
+    url        = "/playbook"
