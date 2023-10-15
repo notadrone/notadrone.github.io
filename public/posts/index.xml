@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>https://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on notadrone</title>
+    <link>https://notadrone.github.io/posts/</link>
+    <description>Recent content in Posts on notadrone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Oct 2023 05:42:51 -0400</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Oct 2023 05:42:51 -0400</lastBuildDate><atom:link href="https://notadrone.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example</title>
-      <link>https://example.org/posts/example/</link>
+      <link>https://notadrone.github.io/posts/example/</link>
       <pubDate>Sun, 15 Oct 2023 05:42:51 -0400</pubDate>
       
-      <guid>https://example.org/posts/example/</guid>
+      <guid>https://notadrone.github.io/posts/example/</guid>
       <description>example post</description>
     </item>
     
