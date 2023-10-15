@@ -2,3 +2,21 @@ baseURL = 'https://notadrone.github.io/'
 languageCode = 'en-us'
 title = 'notadrone'
 theme = 'ananke'
+
+[menu]
+[[menu.main]]
+    name = 'Home'
+    pageref = '/'
+    weight = 10
+[[menu.main]]
+    name = 'About'
+    pageref = '/about'
+    weight = 60
+[[menu.footer]]
+    name = 'Terms'
+    pageref = '/terms'
+    weight = 10
+[[menu.footer]]
+    name = 'Privacy'
+    pageref = '/privacy'
+    weight = 20
